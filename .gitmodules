@@ -1,0 +1,3 @@
+[submodule "telegram-hubot"]
+	path = telegram-hubot
+	url = https://github.com/pingiun/telegram-hubot
